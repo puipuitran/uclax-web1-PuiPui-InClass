@@ -7,7 +7,7 @@ const Main = () => {
 
     return (
         <div className='Main'>
-            <h1>PuiPui's Final</h1>
+            <h1>PuiPui's In Class</h1>
         </div>
     );
 }
