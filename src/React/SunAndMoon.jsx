@@ -1,4 +1,4 @@
-import react, { useState } from 'react';
+import React, { useState } from 'react';
 
 const SunAndMoon = () => {
 
@@ -15,6 +15,7 @@ const SunAndMoon = () => {
         <div>The Sun and The Moon
             <img 
                 src={ imageSrc } 
+                alt='The Sun and The Moon'
                 onMouseOver={ imageOver }
                 onMouseOut={ imageOut }
             />
