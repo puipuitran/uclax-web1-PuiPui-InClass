@@ -26,7 +26,7 @@ const NavStyled = styled.nav`
         margin: 10px;
 
         &.active {
-            background-color: orange;
+            background-color: #0e4848;
         }
     }
 `;
