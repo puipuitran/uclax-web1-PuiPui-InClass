@@ -48,5 +48,4 @@ const TabbedNavItemStyled = styled.div`
         background-color: teal;
     }
 
-    }
 `;
